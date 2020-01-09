@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="numGrid" max_length="40" name="x_58872_needit_numgrid" type="collection">
+        <element label="a" max_length="40" name="a" type="float"/>
+        <element label="b" max_length="40" name="b" type="float"/>
+        <element label="c" max_length="40" name="c" type="float"/>
+        <element label="d" max_length="40" name="d" type="float"/>
+        <element label="e" max_length="40" name="e" type="float"/>
+        <element label="f" max_length="40" name="f" type="float"/>
+        <element label="g" max_length="40" name="g" type="float"/>
+        <element label="h" max_length="40" name="h" type="float"/>
+        <element label="i" max_length="40" name="i" type="float"/>
+        <element label="j" max_length="40" name="j" type="float"/>
+    </element>
+</database>
